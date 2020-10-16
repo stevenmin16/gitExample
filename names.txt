@@ -1,1 +1,2 @@
+role,NetID,FamilyName,GivenName
 boss,nmin,Min,Steven
